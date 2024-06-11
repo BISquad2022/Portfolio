@@ -8,5 +8,5 @@ We can use the IQR method of identifying outliers to set up a “fence” outsid
 
 Source: https://online.stat.psu.edu/stat200/book/export/html/63
 
-Check the qvf for reference.
+Check the qvf for reference: Interquartile Method (IQR).qvf
  
