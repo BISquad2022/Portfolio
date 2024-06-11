@@ -10,3 +10,13 @@ Source: https://online.stat.psu.edu/stat200/book/export/html/63
 
 Check the qvf for reference: Interquartile Method (IQR).qvf
  
+Heatmap coverage:
+
+Explore the benefits of using heat maps for data analysis in warehouses and distribution centers. 
+Enhance inventory visibility, optimize warehouse layout, streamline order fulfillment, and improve employee performance.
+
+<img width="479" alt="image" src="https://github.com/BISquad2022/Portfolio/assets/115148983/8b10220e-7daf-4f31-8f9b-50cb01fcaff8">
+
+Source: https://lidd.com/warehouse-productivity-heat-maps/ https://sebastianraschka.com/Articles/heatmaps_in_r.html
+
+Check the qvf for reference: Heatmap coverage.qvf
