@@ -26,6 +26,6 @@ Check the qvf for reference: Heatmap coverage.qvf
 A continious bar and line chart for Sales by year with custom color by expression
 <img width="299" alt="image" src="https://github.com/BISquad2022/Portfolio/assets/115148983/cc5f3b99-1518-4995-927c-daafcd5d74d4">
 
-Combo chart showcase.qvf
+Check the qvf for reference: Combo chart showcase.qvf
 
 
