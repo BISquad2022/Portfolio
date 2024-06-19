@@ -21,3 +21,10 @@ Enhance inventory visibility, optimize warehouse layout, streamline order fulfil
 Source: https://lidd.com/warehouse-productivity-heat-maps/ https://sebastianraschka.com/Articles/heatmaps_in_r.html
 
 Check the qvf for reference: Heatmap coverage.qvf
+
+**Combochart showcase:**
+A continious bar and line chart for Sales by year with custom color by expression
+![image](https://github.com/BISquad2022/Portfolio/assets/115148983/09a0b07e-456e-4dbc-9906-529bc799170f)
+Combo chart showcase.qvf
+
+
