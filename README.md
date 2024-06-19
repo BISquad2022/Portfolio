@@ -24,7 +24,7 @@ Check the qvf for reference: Heatmap coverage.qvf
 
 **Combochart showcase:**
 A continious bar and line chart for Sales by year with custom color by expression
-![image](https://github.com/BISquad2022/Portfolio/assets/115148983/09a0b07e-456e-4dbc-9906-529bc799170f)
+<img width="299" alt="image" src="https://github.com/BISquad2022/Portfolio/assets/115148983/cc5f3b99-1518-4995-927c-daafcd5d74d4">
 
 Combo chart showcase.qvf
 
