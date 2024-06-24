@@ -29,4 +29,8 @@ A continous bar and line chart for Sales by year with custom color by expression
 
 Check the qvf for reference: Combo chart showcase.qvf
 
+**Lollipop chart showcase:**
+A lollipop chart is a variation of a bar chart where data points are represented as circles or points on a horizontal or vertical axis. Each data point is connected to the axis with a line, creating a "lollipop" appearance. Lollipop charts are ideal for displaying individual data points within a category.
+Source: https://www.linkedin.com/pulse/elevating-insights-lollipop-chart-data-visualization-jagarlapoodi-dsfif/
 
+Check the qvf for reference: Lollipop chart showcase.qvf
