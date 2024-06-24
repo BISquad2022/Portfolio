@@ -31,6 +31,7 @@ Check the qvf for reference: Combo chart showcase.qvf
 
 **Lollipop chart showcase:**
 A lollipop chart is a variation of a bar chart where data points are represented as circles or points on a horizontal or vertical axis. Each data point is connected to the axis with a line, creating a "lollipop" appearance. Lollipop charts are ideal for displaying individual data points within a category.
+
 <img width="116" alt="image" src="https://github.com/BISquad2022/Portfolio/assets/115148983/59c1591f-2f2a-448c-81cc-2ae21030eb77">
 
 Source: https://www.linkedin.com/pulse/elevating-insights-lollipop-chart-data-visualization-jagarlapoodi-dsfif/
